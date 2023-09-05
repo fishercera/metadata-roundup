@@ -3,6 +3,8 @@ VisualizingDataBrowser
 Cera Fisher
 2023-08-15
 
+This is the Github MD version of the RMarkdown Notebook in the `src` directory of this repo. The below figures can be fully reproduced by cloning this repo and running the Rmd. 
+
 # Making visualizations of hosted datasets
 
 The biggest difficulty with summarizing the data in the CGC’s connected
