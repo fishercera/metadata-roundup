@@ -1,4 +1,4 @@
-VisualizingDataBrowser
+Visualizing Connected Datasets
 ================
 Cera Fisher
 2023-08-15
