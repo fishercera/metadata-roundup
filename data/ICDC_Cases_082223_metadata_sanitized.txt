@@ -1,0 +1,679 @@
+Case ID	Diagnosis	Disease Site
+NCATS-COP01-CCB010015	B Cell Lymphoma	Lymph Node
+NCATS-COP01-CCB010178	B Cell Lymphoma	Lymph Node
+NCATS-COP01-CCB010208	B Cell Lymphoma	Lymph Node
+NCATS-COP01-CCB010234	B Cell Lymphoma	Lymph Node
+NCATS-COP01-CCB010235	B Cell Lymphoma	Lymph Node
+NCATS-COP01-CCB010311	B Cell Lymphoma	Lymph Node
+NCATS-COP01-CCB020031	B Cell Lymphoma	Lymph Node
+NCATS-COP01-CCB020035	B Cell Lymphoma	Lymph Node
+NCATS-COP01-CCB020036	B Cell Lymphoma	Lymph Node
+NCATS-COP01-CCB020054	B Cell Lymphoma	Lymph Node
+NCATS-COP01-CCB030001	B Cell Lymphoma	Lymph Node
+NCATS-COP01-CCB050004	B Cell Lymphoma	Lymph Node
+TCL01-17-71	B Cell Lymphoma	Lymph Node
+TCL01-CLBL1	B Cell Lymphoma	Lymph Node
+TCL01-N-Bella	B Cell Lymphoma	Lymph Node
+TCL01-N-CSU7	B Cell Lymphoma	Lymph Node
+TCL01-N-CSU9	B Cell Lymphoma	Lymph Node
+TCL01-N-VRCC3	B Cell Lymphoma	Lymph Node
+TCL01-N-VRCC7	B Cell Lymphoma	Lymph Node
+TCL01-N-Zada	B Cell Lymphoma	Lymph Node
+TCL01-Angus	Bladder	Bladder
+TCL01-Bliley	Bladder	Bladder
+TCL01-Kinsey	Bladder	Bladder
+TCL01-N-166408	Bladder	Bladder
+TCL01-N-172160	Bladder	Bladder
+TCL01-N-353	Bladder	Bladder
+TCL01-Tyler	Bladder	Bladder
+UBC01-742-616-Vm15	Bladder	Bladder
+UBC01-748-065-Vm33	Bladder	Bladder
+UBC01-775-099-Vm18	Bladder	Bladder
+UBC01-776-675-Vm20	Bladder	Bladder
+UBC01-779-441-Vm05	Bladder	Bladder
+UBC01-780-519-Vm08	Bladder	Bladder
+UBC01-781-811-Vm13	Bladder	Bladder
+UBC01-783-879-Vm01	Bladder	Bladder
+UBC01-784-125-Vm02	Bladder	Bladder
+UBC01-784-877-Vm03	Bladder	Bladder
+UBC01-785-211-Vm04	Bladder	Bladder
+UBC01-785-315-Vm17	Bladder	Bladder
+UBC01-786-332-Vm06	Bladder	Bladder
+UBC01-787-138-Vm07	Bladder	Bladder
+UBC01-787-269-Vm09	Bladder	Bladder
+UBC01-787-917-Vm10	Bladder	Bladder
+UBC01-788-602-Vm11	Bladder	Bladder
+UBC01-788-785-Vm12	Bladder	Bladder
+UBC01-789-334-Vm14	Bladder	Bladder
+UBC01-789-663-Vm16	Bladder	Bladder
+UBC01-790-651-Vm19	Bladder	Bladder
+UBC01-790-955-Vm22	Bladder	Bladder
+UBC01-790-957-Vm21	Bladder	Bladder
+UBC01-791-182-Vm23	Bladder	Bladder
+UBC01-791-476-Vm24	Bladder	Bladder
+UBC01-791-912-Vm27	Bladder	Bladder
+UBC01-792-406-Vm26	Bladder	Bladder
+UBC01-792-523-Vm25	Bladder	Bladder
+UBC01-792-526-Vm28	Bladder	Bladder
+UBC01-793-014-Vm29	Bladder	Bladder
+UBC01-793-142-Vm30	Bladder	Bladder
+UBC01-793-265-Vm31	Bladder	Bladder
+UBC01-793-464-Vm32	Bladder	Bladder
+UBC01-793-959-Vm34	Bladder	Bladder
+UBC02-699-989-2	Bladder	Bladder
+UBC02-725-540-Sn	Bladder	Bladder
+UBC02-726-843-Ab	Bladder	Bladder
+UBC02-727-745-Po	Bladder	Bladder
+UBC02-728-463-Ch	Bladder	Bladder
+UBC02-730-901-Za	Bladder	Bladder
+UBC02-730-904-Ja	Bladder	Bladder
+UBC02-731-763-Mis	Bladder	Bladder
+UBC02-731-958-57	Bladder	Bladder
+UBC02-732-317-Je	Bladder	Bladder
+UBC02-733-364-Sp	Bladder	Bladder
+UBC02-733-488-4	Bladder	Bladder
+UBC02-733-548-58	Bladder	Bladder
+UBC02-733-695-Da	Bladder	Bladder
+UBC02-733-858-7	Bladder	Bladder
+UBC02-734-148-Mi	Bladder	Bladder
+UBC02-734-223-8	Bladder	Bladder
+UBC02-736-477-60	Bladder	Bladder
+UBC02-737-562-59	Bladder	Bladder
+UBC02-756-165-20	Bladder	Bladder
+UBC02-758-158-54	Bladder	Bladder
+UBC02-765-478-68	Bladder	Bladder
+UBC02-774-569-51	Bladder	Bladder
+UBC02-774-615-70	Bladder	Bladder
+UBC02-774-859-1	Bladder	Bladder
+UBC02-775-801-2	Bladder	Bladder
+UBC02-776-675-63	Bladder	Bladder
+UBC02-776-679-3	Bladder	Bladder
+UBC02-777-587-16	Bladder	Bladder
+UBC02-777-592-80	Bladder	Bladder
+UBC02-779-032-18	Bladder	Bladder
+UBC02-780-519-15	Bladder	Bladder
+UBC02-782-492-5	Bladder	Bladder
+UBC02-783-693-7	Bladder	Bladder
+UBC02-784-128-53	Bladder	Bladder
+UBC02-784-135-19	Bladder	Bladder
+UBC02-784-373-9	Bladder	Bladder
+UBC02-785-313-10	Bladder	Bladder
+UBC02-785-315-11	Bladder	Bladder
+UBC02-785-590-12	Bladder	Bladder
+UBC02-786-694-64	Bladder	Bladder
+UBC02-786-695-61	Bladder	Bladder
+UBC02-787-089-62	Bladder	Bladder
+UBC02-787-915-73	Bladder	Bladder
+UBC02-788-241-72	Bladder	Bladder
+UBC02-788-334-71	Bladder	Bladder
+UBC02-788-700-66	Bladder	Bladder
+UBC02-788-991-76	Bladder	Bladder
+UBC02-789-025-75	Bladder	Bladder
+UBC02-789-341-77	Bladder	Bladder
+UBC02-789-913-78	Bladder	Bladder
+UBC02-795-409-2z	Bladder	Bladder
+UBC02-795-868-3z	Bladder	Bladder
+UBC02-795-869-4z	Bladder	Bladder
+UBC02-796-233-1z	Bladder	Bladder
+UBC02-798-150-Hb	Bladder	Bladder
+TCL01-N-1776	Fibrolipoma	Shoulder
+GLIOMA01-i_03A6	Glioma	Brain
+GLIOMA01-i_045E	Glioma	Brain
+GLIOMA01-i_05CA	Glioma	Brain
+GLIOMA01-i_0DC4	Glioma	Brain
+GLIOMA01-i_0FF0	Glioma	Brain
+GLIOMA01-i_1165	Glioma	Brain
+GLIOMA01-i_1166	Glioma	Brain
+GLIOMA01-i_157E	Glioma	Brain
+GLIOMA01-i_1793	Glioma	Brain
+GLIOMA01-i_1C36	Glioma	Brain
+GLIOMA01-i_22C7	Glioma	Brain
+GLIOMA01-i_2C25	Glioma	Brain
+GLIOMA01-i_2C4F	Glioma	Brain
+GLIOMA01-i_2EC9	Glioma	Brain
+GLIOMA01-i_3688	Glioma	Brain
+GLIOMA01-i_3F8C	Glioma	Brain
+GLIOMA01-i_42D9	Glioma	Brain
+GLIOMA01-i_4990	Glioma	Brain
+GLIOMA01-i_49E6	Glioma	Brain
+GLIOMA01-i_4AAB	Glioma	Brain
+GLIOMA01-i_4BAC	Glioma	Brain
+GLIOMA01-i_4D0C	Glioma	Brain
+GLIOMA01-i_502F	Glioma	Brain
+GLIOMA01-i_51A5	Glioma	Brain
+GLIOMA01-i_56B5	Glioma	Brain
+GLIOMA01-i_5CE5	Glioma	Brain
+GLIOMA01-i_5E9A	Glioma	Brain
+GLIOMA01-i_607E	Glioma	Brain
+GLIOMA01-i_60DA	Glioma	Brain
+GLIOMA01-i_6254	Glioma	Brain
+GLIOMA01-i_63FE	Glioma	Brain
+GLIOMA01-i_6454	Glioma	Brain
+GLIOMA01-i_64C0	Glioma	Brain
+GLIOMA01-i_6561	Glioma	Brain
+GLIOMA01-i_6638	Glioma	Brain
+GLIOMA01-i_66A9	Glioma	Brain
+GLIOMA01-i_6B06	Glioma	Brain
+GLIOMA01-i_6D02	Glioma	Brain
+GLIOMA01-i_6D5C	Glioma	Brain
+GLIOMA01-i_6E45	Glioma	Brain
+GLIOMA01-i_750B	Glioma	Brain
+GLIOMA01-i_81E2	Glioma	Brain
+GLIOMA01-i_8228	Glioma	Brain
+GLIOMA01-i_8743	Glioma	Brain
+GLIOMA01-i_8A0A	Glioma	Brain
+GLIOMA01-i_8BDE	Glioma	Brain
+GLIOMA01-i_905D	Glioma	Brain
+GLIOMA01-i_92AC	Glioma	Brain
+GLIOMA01-i_95FC	Glioma	Brain
+GLIOMA01-i_99AF	Glioma	Brain
+GLIOMA01-i_A71E	Glioma	Brain
+GLIOMA01-i_A974	Glioma	Brain
+GLIOMA01-i_AB3E	Glioma	Brain
+GLIOMA01-i_B023	Glioma	Brain
+GLIOMA01-i_B02B	Glioma	Brain
+GLIOMA01-i_B2DC	Glioma	Brain
+GLIOMA01-i_B3CE	Glioma	Brain
+GLIOMA01-i_B4F5	Glioma	Brain
+GLIOMA01-i_B70F	Glioma	Brain
+GLIOMA01-i_B813	Glioma	Brain
+GLIOMA01-i_BD58	Glioma	Brain
+GLIOMA01-i_BF76	Glioma	Brain
+GLIOMA01-i_C04D	Glioma	Brain
+GLIOMA01-i_C3C0	Glioma	Brain
+GLIOMA01-i_C561	Glioma	Brain
+GLIOMA01-i_D026	Glioma	Brain
+GLIOMA01-i_D0EE	Glioma	Brain
+GLIOMA01-i_D732	Glioma	Brain
+GLIOMA01-i_D756	Glioma	Brain
+GLIOMA01-i_D7EC	Glioma	Brain
+GLIOMA01-i_DCD0	Glioma	Brain
+GLIOMA01-i_E271	Glioma	Brain
+GLIOMA01-i_E2CD	Glioma	Brain
+GLIOMA01-i_E7AB	Glioma	Brain
+GLIOMA01-i_E952	Glioma	Brain
+GLIOMA01-i_ED99	Glioma	Brain
+GLIOMA01-i_F5BE	Glioma	Brain
+GLIOMA01-i_F840	Glioma	Brain
+GLIOMA01-i_F8E7	Glioma	Brain
+GLIOMA01-i_FC65	Glioma	Brain
+GLIOMA01-i_FECA	Glioma	Brain
+MGT01-31005	Healthy Control	Not Applicable
+UBC01-PCBCC-CDDMAH	Healthy Control	Not Applicable
+UBC01-PCBCC-CDEMBC	Healthy Control	Not Applicable
+UBC01-PCBCC-CDGMDD	Healthy Control	Not Applicable
+UBC01-PCBCC-CDHMCL	Healthy Control	Not Applicable
+UBC02-PCBCC-CDDMAH	Healthy Control	Not Applicable
+UBC02-PCBCC-CDEMBC	Healthy Control	Not Applicable
+UBC02-PCBCC-CDGMDD	Healthy Control	Not Applicable
+UBC02-PCBCC-CDHMCL	Healthy Control	Not Applicable
+TCL01-Cindy	Hemangiosarcoma	Unknown
+TCL01-DEN-HSA	Hemangiosarcoma	Kidney
+TCL01-SB	Hemangiosarcoma	Subcutis
+TCL01-DH82	Histiocytic Sarcoma	Bone Marrow
+TCL01-Nike	Histiocytic Sarcoma	Unknown
+TCL01-N-1146	Lipoma	Chest Wall
+COTC007B-0101	Lymphoma	Lymph Node
+COTC007B-0201	Lymphoma	Lymph Node
+COTC007B-0202	Lymphoma	Lymph Node
+COTC007B-0203	Lymphoma	Lymph Node
+COTC007B-0204	Lymphoma	Lymph Node
+COTC007B-0205	Lymphoma	Lymph Node
+COTC007B-0206	Lymphoma	Lymph Node
+COTC007B-0207	Lymphoma	Lymph Node
+COTC007B-0208	Lymphoma	Lymph Node
+COTC007B-0209	Lymphoma	Lymph Node
+COTC007B-0210	Lymphoma	Lymph Node
+COTC007B-0211	Lymphoma	Lymph Node
+COTC007B-0212	Lymphoma	Lymph Node
+COTC007B-0213	Lymphoma	Lymph Node
+COTC007B-0214	Lymphoma	Lymph Node
+COTC007B-0215	Lymphoma	Lymph Node
+COTC007B-0216	Lymphoma	Lymph Node
+COTC007B-0217	Lymphoma	Lymph Node
+COTC007B-0218	Lymphoma	Lymph Node
+COTC007B-0219	Lymphoma	Lymph Node
+COTC007B-0220	Lymphoma	Lymph Node
+COTC007B-0301	Lymphoma	Lymph Node
+COTC007B-0302	Lymphoma	Lymph Node
+COTC007B-0303	Lymphoma	Lymph Node
+COTC007B-0304	Lymphoma	Lymph Node
+COTC007B-0305	Lymphoma	Lymph Node
+COTC007B-0401	Lymphoma	Lymph Node
+COTC007B-0402	Lymphoma	Lymph Node
+COTC007B-0403	Lymphoma	Lymph Node
+COTC007B-0404	Lymphoma	Lymph Node
+COTC007B-0405	Lymphoma	Lymph Node
+COTC007B-0406	Lymphoma	Lymph Node
+COTC007B-0407	Lymphoma	Lymph Node
+COTC007B-0408	Lymphoma	Lymph Node
+COTC007B-0409	Lymphoma	Lymph Node
+COTC007B-0410	Lymphoma	Lymph Node
+COTC007B-0411	Lymphoma	Lymph Node
+COTC007B-0412	Lymphoma	Lymph Node
+COTC007B-0413	Lymphoma	Lymph Node
+COTC007B-0414	Lymphoma	Lymph Node
+COTC007B-0415	Lymphoma	Lymph Node
+COTC007B-0501	Lymphoma	Lymph Node
+COTC007B-0502	Lymphoma	Lymph Node
+COTC007B-0503	Lymphoma	Lymph Node
+COTC007B-0504	Lymphoma	Lymph Node
+COTC007B-0505	Lymphoma	Lymph Node
+COTC007B-0506	Lymphoma	Lymph Node
+COTC007B-0507	Lymphoma	Lymph Node
+COTC007B-0508	Lymphoma	Lymph Node
+COTC007B-0509	Lymphoma	Lymph Node
+COTC007B-0510	Lymphoma	Lymph Node
+COTC007B-0511	Lymphoma	Lymph Node
+COTC007B-0512	Lymphoma	Lymph Node
+COTC007B-0513	Lymphoma	Lymph Node
+COTC007B-0601	Lymphoma	Lymph Node
+COTC007B-0602	Lymphoma	Lymph Node
+COTC007B-0603	Lymphoma	Lymph Node
+COTC007B-0604	Lymphoma	Lymph Node
+COTC007B-0605	Lymphoma	Lymph Node
+COTC007B-0607	Lymphoma	Lymph Node
+COTC007B-0608	Lymphoma	Lymph Node
+COTC007B-0609	Lymphoma	Lymph Node
+COTC007B-0610	Lymphoma	Lymph Node
+COTC007B-0611	Lymphoma	Lymph Node
+COTC007B-0612	Lymphoma	Lymph Node
+COTC007B-0613	Lymphoma	Lymph Node
+COTC007B-0614	Lymphoma	Lymph Node
+COTC007B-0615	Lymphoma	Lymph Node
+COTC007B-0616	Lymphoma	Lymph Node
+COTC007B-0617	Lymphoma	Lymph Node
+COTC007B-0901	Lymphoma	Lymph Node
+COTC007B-0902	Lymphoma	Lymph Node
+COTC007B-1001	Lymphoma	Lymph Node
+COTC007B-1002	Lymphoma	Lymph Node
+COTC007B-1003	Lymphoma	Lymph Node
+COTC007B-1601	Lymphoma	Lymph Node
+COTC007B-1602	Lymphoma	Lymph Node
+COTC007B-1603	Lymphoma	Lymph Node
+COTC007B-1604	Lymphoma	Lymph Node
+COTC007B-1605	Lymphoma	Lymph Node
+COTC007B-1606	Lymphoma	Lymph Node
+COTC007B-1607	Lymphoma	Lymph Node
+COTC007B-1608	Lymphoma	Lymph Node
+COTC007B-1609	Lymphoma	Lymph Node
+TCL01-OSW	Lymphoma	Pleural Cavity
+MGT01-115	Mammary Cancer	Mammary Gland
+MGT01-159	Mammary Cancer	Mammary Gland
+MGT01-32510	Mammary Cancer	Mammary Gland
+MGT01-341400	Mammary Cancer	Mammary Gland
+MGT01-401130	Mammary Cancer	Mammary Gland
+MGT01-401188	Mammary Cancer	Mammary Gland
+MGT01-402421	Mammary Cancer	Mammary Gland
+MGT01-403802	Mammary Cancer	Mammary Gland
+MGT01-406434	Mammary Cancer	Mammary Gland
+MGT01-5	Mammary Cancer	Mammary Gland
+MGT01-518	Mammary Cancer	Mammary Gland
+MGT01-76	Mammary Cancer	Mammary Gland
+TCL01-CMT12	Mammary Cancer	Mammary Gland
+TCL01-BRMCT	Mast Cell Tumor	Subcutis
+TCL01-C2	Mast Cell Tumor	Subcutis
+NCATS-COP01-CCB010378	Melanoma	Mouth
+NCATS-COP01-CCB020128	Melanoma	Mouth
+NCATS-COP01-CCB030162	Melanoma	Mouth
+NCATS-COP01-CCB030227	Melanoma	Mouth
+NCATS-COP01-CCB050096	Melanoma	Mouth
+NCATS-COP01-CCB050170	Melanoma	Mouth
+NCATS-COP01-CCB050177	Melanoma	Mouth
+NCATS-COP01-CCB060030	Melanoma	Mouth
+NCATS-COP01-CCB060039	Melanoma	Mouth
+NCATS-COP01-CCB070102	Melanoma	Mouth
+NCATS-COP01-CCB080012	Melanoma	Mouth
+NCATS-COP01-CCB080018	Melanoma	Mouth
+TCL01-17CM98	Melanoma	Mouth
+TCL01-CML-10C2	Melanoma	Skin
+TCL01-CML-6M	Melanoma	Skin
+TCL01-Jones	Melanoma	Mouth
+TCL01-Parks	Melanoma	Mouth
+COTC022-0102	Osteosarcoma	Bone
+COTC022-0104	Osteosarcoma	Bone
+COTC022-0106	Osteosarcoma	Bone
+COTC022-0202	Osteosarcoma	Bone
+COTC022-0204	Osteosarcoma	Bone
+COTC022-0206	Osteosarcoma	Bone
+COTC022-0208	Osteosarcoma	Bone
+COTC022-0210	Osteosarcoma	Bone
+COTC022-0212	Osteosarcoma	Bone
+COTC022-0214	Osteosarcoma	Bone
+COTC022-0216	Osteosarcoma	Bone
+COTC022-0220	Osteosarcoma	Bone
+COTC022-0222	Osteosarcoma	Bone
+COTC022-0224	Osteosarcoma	Bone
+COTC022-0225	Osteosarcoma	Bone
+COTC022-0227	Osteosarcoma	Bone
+COTC022-0228	Osteosarcoma	Bone
+COTC022-0302	Osteosarcoma	Bone
+COTC022-0304	Osteosarcoma	Bone
+COTC022-0306	Osteosarcoma	Bone
+COTC022-0308	Osteosarcoma	Bone
+COTC022-0310	Osteosarcoma	Bone
+COTC022-0312	Osteosarcoma	Bone
+COTC022-0318	Osteosarcoma	Bone
+COTC022-0331	Osteosarcoma	Bone
+COTC022-0333	Osteosarcoma	Bone
+COTC022-0402	Osteosarcoma	Bone
+COTC022-0404	Osteosarcoma	Bone
+COTC022-0406	Osteosarcoma	Bone
+COTC022-0408	Osteosarcoma	Bone
+COTC022-0409	Osteosarcoma	Bone
+COTC022-0410	Osteosarcoma	Bone
+COTC022-0411	Osteosarcoma	Bone
+COTC022-0502	Osteosarcoma	Bone
+COTC022-0504	Osteosarcoma	Bone
+COTC022-0506	Osteosarcoma	Bone
+COTC022-0508	Osteosarcoma	Bone
+COTC022-0510	Osteosarcoma	Bone
+COTC022-0512	Osteosarcoma	Bone
+COTC022-0514	Osteosarcoma	Bone
+COTC022-0516	Osteosarcoma	Bone
+COTC022-0518	Osteosarcoma	Bone
+COTC022-0521	Osteosarcoma	Bone
+COTC022-0522	Osteosarcoma	Bone
+COTC022-0602	Osteosarcoma	Bone
+COTC022-0604	Osteosarcoma	Bone
+COTC022-0606	Osteosarcoma	Bone
+COTC022-0608	Osteosarcoma	Bone
+COTC022-0610	Osteosarcoma	Bone
+COTC022-0611	Osteosarcoma	Bone
+COTC022-0613	Osteosarcoma	Bone
+COTC022-0614	Osteosarcoma	Bone
+COTC022-0615	Osteosarcoma	Bone
+COTC022-0616	Osteosarcoma	Bone
+COTC022-0618	Osteosarcoma	Bone
+COTC022-0619	Osteosarcoma	Bone
+COTC022-0620	Osteosarcoma	Bone
+COTC022-0623	Osteosarcoma	Bone
+COTC022-0624	Osteosarcoma	Bone
+COTC022-0627	Osteosarcoma	Bone
+COTC022-0628	Osteosarcoma	Bone
+COTC022-0632	Osteosarcoma	Bone
+COTC022-0633	Osteosarcoma	Bone
+COTC022-0634	Osteosarcoma	Bone
+COTC022-0639	Osteosarcoma	Bone
+COTC022-0642	Osteosarcoma	Bone
+COTC022-0702	Osteosarcoma	Bone
+COTC022-0704	Osteosarcoma	Bone
+COTC022-0706	Osteosarcoma	Bone
+COTC022-0708	Osteosarcoma	Bone
+COTC022-0710	Osteosarcoma	Bone
+COTC022-0712	Osteosarcoma	Bone (Axial)
+COTC022-0716	Osteosarcoma	Bone
+COTC022-0718	Osteosarcoma	Bone
+COTC022-0719	Osteosarcoma	Bone
+COTC022-0720	Osteosarcoma	Bone
+COTC022-0721	Osteosarcoma	Bone
+COTC022-0727	Osteosarcoma	Bone
+COTC022-0729	Osteosarcoma	Bone
+COTC022-0733	Osteosarcoma	Bone
+COTC022-0735	Osteosarcoma	Bone
+COTC022-0802	Osteosarcoma	Bone
+COTC022-0804	Osteosarcoma	Bone
+COTC022-0806	Osteosarcoma	Bone
+COTC022-0808	Osteosarcoma	Bone
+COTC022-0812	Osteosarcoma	Bone
+COTC022-0821	Osteosarcoma	Bone
+COTC022-0823	Osteosarcoma	Bone
+COTC022-0904	Osteosarcoma	Bone
+COTC022-0905	Osteosarcoma	Bone
+COTC022-0907	Osteosarcoma	Bone
+COTC022-0909	Osteosarcoma	Bone
+COTC022-0910	Osteosarcoma	Bone
+COTC022-1002	Osteosarcoma	Bone
+COTC022-1004	Osteosarcoma	Bone
+COTC022-1006	Osteosarcoma	Bone
+COTC022-1008	Osteosarcoma	Bone
+COTC022-1010	Osteosarcoma	Bone
+COTC022-1011	Osteosarcoma	Bone
+COTC022-1012	Osteosarcoma	Bone
+COTC022-1014	Osteosarcoma	Bone
+COTC022-1016	Osteosarcoma	Bone
+COTC022-1022	Osteosarcoma	Bone
+COTC022-1023	Osteosarcoma	Bone
+COTC022-1025	Osteosarcoma	Bone
+COTC022-1102	Osteosarcoma	Bone
+COTC022-1107	Osteosarcoma	Bone
+COTC022-1110	Osteosarcoma	Bone
+COTC022-1402	Osteosarcoma	Bone
+COTC022-1404	Osteosarcoma	Bone
+COTC022-1406	Osteosarcoma	Bone
+COTC022-1410	Osteosarcoma	Bone
+COTC022-1412	Osteosarcoma	Bone
+COTC022-1414	Osteosarcoma	Bone
+COTC022-1422	Osteosarcoma	Bone
+COTC022-1704	Osteosarcoma	Bone
+COTC022-1705	Osteosarcoma	Bone
+COTC022-1707	Osteosarcoma	Bone
+COTC022-1708	Osteosarcoma	Bone
+COTC022-1709	Osteosarcoma	Bone
+COTC022-1710	Osteosarcoma	Bone
+COTC022-1712	Osteosarcoma	Bone
+COTC022-1802	Osteosarcoma	Bone
+COTC022-1803	Osteosarcoma	Bone
+COTC022-1804	Osteosarcoma	Bone
+COTC022-1808	Osteosarcoma	Bone
+COTC022-1902	Osteosarcoma	Bone
+COTC022-1911	Osteosarcoma	Bone
+COTC022-1917	Osteosarcoma	Bone
+COTC022-2002	Osteosarcoma	Bone
+COTC022-2004	Osteosarcoma	Bone
+COTC022-2005	Osteosarcoma	Bone
+COTC022-2006	Osteosarcoma	Bone
+COTC022-2008	Osteosarcoma	Bone
+COTC022-2010	Osteosarcoma	Bone (Axial)
+COTC022-2011	Osteosarcoma	Bone
+COTC022-2012	Osteosarcoma	Bone
+COTC022-2202	Osteosarcoma	Bone
+COTC022-2204	Osteosarcoma	Bone
+COTC022-2206	Osteosarcoma	Bone
+COTC022-2207	Osteosarcoma	Bone
+COTC022-2208	Osteosarcoma	Bone
+COTC022-2210	Osteosarcoma	Bone
+COTC022-2213	Osteosarcoma	Bone
+COTC022-2302	Osteosarcoma	Bone
+COTC022-2303	Osteosarcoma	Bone
+COTC022-2304	Osteosarcoma	Bone
+COTC022-2306	Osteosarcoma	Bone
+COTC022-2308	Osteosarcoma	Bone
+COTC022-2310	Osteosarcoma	Bone
+COTC022-2314	Osteosarcoma	Bone
+COTC022-2315	Osteosarcoma	Bone
+COTC022-2316	Osteosarcoma	Bone
+COTC022-2318	Osteosarcoma	Bone
+COTC022-2319	Osteosarcoma	Bone
+COTC022-2320	Osteosarcoma	Bone
+COTC022-2322	Osteosarcoma	Bone
+NCATS-COP01-CCB010072	Osteosarcoma	Bone
+NCATS-COP01-CCB010091	Osteosarcoma	Bone
+NCATS-COP01-CCB020018	Osteosarcoma	Bone
+NCATS-COP01-CCB020026	Osteosarcoma	Bone
+NCATS-COP01-CCB020027	Osteosarcoma	Bone
+NCATS-COP01-CCB030035	Osteosarcoma	Bone
+NCATS-COP01-CCB030064	Osteosarcoma	Bone
+NCATS-COP01-CCB030077	Osteosarcoma	Bone
+NCATS-COP01-CCB030078	Osteosarcoma	Bone
+NCATS-COP01-CCB050022	Osteosarcoma	Bone
+NCATS-COP01-CCB070003	Osteosarcoma	Bone
+NCATS-COP01-CCB070013	Osteosarcoma	Bone
+OSA01-E1	Osteosarcoma	Bone
+OSA01-E12	Osteosarcoma	Bone
+OSA01-E13	Osteosarcoma	Bone
+OSA01-E14	Osteosarcoma	Bone
+OSA01-E2	Osteosarcoma	Bone
+OSA01-E3	Osteosarcoma	Bone
+OSA01-E4	Osteosarcoma	Bone
+OSA01-E41	Osteosarcoma	Bone
+OSA01-E44	Osteosarcoma	Bone
+OSA01-E45	Osteosarcoma	Bone
+OSA01-E5	Osteosarcoma	Bone
+OSA01-E51	Osteosarcoma	Bone
+OSA01-E52	Osteosarcoma	Bone
+OSA01-E53	Osteosarcoma	Bone
+OSA01-E54	Osteosarcoma	Bone
+OSA01-E6	Osteosarcoma	Bone
+OSA01-E8	Osteosarcoma	Bone
+OSA01-WLJ_001	Osteosarcoma	Bone
+OSA01-WLJ_0010	Osteosarcoma	Bone
+OSA01-WLJ_0013	Osteosarcoma	Bone
+OSA01-WLJ_002	Osteosarcoma	Bone
+OSA01-WLJ_007	Osteosarcoma	Bone
+OSA01-WLJ_008	Osteosarcoma	Bone
+OSA01-WLJ_015	Osteosarcoma	Bone
+OSA01-WLJ_026	Osteosarcoma	Bone
+OSA01-WLJ_027	Osteosarcoma	Bone
+OSA01-WLJ_029	Osteosarcoma	Bone
+OSA01-WLJ_030	Osteosarcoma	Bone
+OSA01-WLJ_047	Osteosarcoma	Bone
+OSA01-WLJ_050	Osteosarcoma	Bone
+OSA01-WLJ_054	Osteosarcoma	Bone
+OSA01-WLJ_055	Osteosarcoma	Bone
+OSA01-WLJ_056	Osteosarcoma	Bone
+OSA01-WLJ_059	Osteosarcoma	Bone
+OSA01-WLJ_106	Osteosarcoma	Bone
+OSA01-WLOS_0001	Osteosarcoma	Bone
+OSA01-WLOS_0002	Osteosarcoma	Bone
+OSA01-WLOS_0003	Osteosarcoma	Bone
+OSA01-WLOS_0004	Osteosarcoma	Bone
+OSA01-WLOS_0005	Osteosarcoma	Bone
+OSA01-WLOS_0006	Osteosarcoma	Bone
+OSA01-WLOS_0007	Osteosarcoma	Bone
+OSA01-WLOS_0008	Osteosarcoma	Bone
+OSA01-WLOS_0009	Osteosarcoma	Bone
+OSA01-WLOS_0010	Osteosarcoma	Bone
+OSA01-WLOS_0011	Osteosarcoma	Bone
+OSA01-WLOS_0012	Osteosarcoma	Bone
+OSA01-WLOS_0013	Osteosarcoma	Bone
+OSA01-WLOS_0014	Osteosarcoma	Bone
+OSA01-WLOS_0015	Osteosarcoma	Bone
+OSA01-WLOS_0016	Osteosarcoma	Bone
+OSA01-WLOS_0017	Osteosarcoma	Bone
+OSA01-WLOS_0018	Osteosarcoma	Bone
+OSA01-WLOS_0019	Osteosarcoma	Bone
+OSA01-WLOS_0020	Osteosarcoma	Bone
+OSA01-WLOS_0021	Osteosarcoma	Bone
+OSA01-WLOS_0022	Osteosarcoma	Bone
+OSA01-WLOS_0023	Osteosarcoma	Bone
+OSA01-WLOS_0024	Osteosarcoma	Bone
+OSA03-DOS-00	Osteosarcoma	Bone
+OSA03-DOS-02	Osteosarcoma	Unknown
+OSA03-DOS-04	Osteosarcoma	Unknown
+OSA03-DOS-0828	Osteosarcoma	Bone
+OSA03-DOS-0829	Osteosarcoma	Bone
+OSA03-DOS-09	Osteosarcoma	Unknown
+OSA03-DOS-0930	Osteosarcoma	Bone
+OSA03-DOS-0931	Osteosarcoma	Bone
+OSA03-DOS-0932	Osteosarcoma	Unknown
+OSA03-DOS-0934	Osteosarcoma	Bone
+OSA03-DOS-0939	Osteosarcoma	Bone
+OSA03-DOS-0940	Osteosarcoma	Bone
+OSA03-DOS-0941	Osteosarcoma	Bone
+OSA03-DOS-0942	Osteosarcoma	Bone
+OSA03-DOS-0944	Osteosarcoma	Bone
+OSA03-DOS-0945	Osteosarcoma	Bone
+OSA03-DOS-0951	Osteosarcoma	Bone
+OSA03-DOS-0956	Osteosarcoma	Bone
+OSA03-DOS-103	Osteosarcoma	Bone
+OSA03-DOS-104	Osteosarcoma	Bone
+OSA03-DOS-105	Osteosarcoma	Bone
+OSA03-DOS-108	Osteosarcoma	Bone
+OSA03-DOS-11	Osteosarcoma	Unknown
+OSA03-DOS-110	Osteosarcoma	Bone
+OSA03-DOS-114	Osteosarcoma	Bone
+OSA03-DOS-120	Osteosarcoma	Bone
+OSA03-DOS-121	Osteosarcoma	Bone
+OSA03-DOS-24	Osteosarcoma	Bone
+OSA03-DOS-29	Osteosarcoma	Bone
+OSA03-DOS-32-2	Osteosarcoma	Bone
+OSA03-DOS-39	Osteosarcoma	Bone
+OSA03-DOS-52	Osteosarcoma	Unknown
+OSA03-DOS-54	Osteosarcoma	Bone
+OSA03-DOS-55	Osteosarcoma	Bone
+OSA03-DOS-60	Osteosarcoma	Not Applicable
+OSA03-DOS-64	Osteosarcoma	Unknown
+OSA03-DOS-66	Osteosarcoma	Bone
+OSA03-DOS-67	Osteosarcoma	Unknown
+OSA03-DOS-68	Osteosarcoma	Unknown
+OSA03-DOS-69	Osteosarcoma	Bone
+OSA03-DOS-71	Osteosarcoma	Unknown
+OSA03-DOS-75	Osteosarcoma	Bone
+OSA03-DOS-8	Osteosarcoma	Bone
+OSA03-DOS-85	Osteosarcoma	Bone
+TCL01-Abrams	Osteosarcoma	Bone
+TCL01-D-17	Osteosarcoma	Bone
+TCL01-Gracie	Osteosarcoma	Bone
+TCL01-HMPOS	Osteosarcoma	Bone
+TCL01-McKinley	Osteosarcoma	Bone
+TCL01-Moresco	Osteosarcoma	Bone
+TCL01-OS2.4	Osteosarcoma	Bone
+TCL01-OSA8	Osteosarcoma	Bone
+TCL01-Vogel	Osteosarcoma	Bone
+NCATS-COP01-CCB010285	Pulmonary Neoplasms	Lung
+NCATS-COP01-CCB030255	Pulmonary Neoplasms	Lung
+NCATS-COP01-CCB040254	Pulmonary Neoplasms	Lung
+NCATS-COP01-CCB040382	Pulmonary Neoplasms	Lung
+NCATS-COP01-CCB050216	Pulmonary Neoplasms	Lung
+NCATS-COP01-CCB050227	Pulmonary Neoplasms	Lung
+NCATS-COP01-CCB050297	Pulmonary Neoplasms	Lung
+NCATS-COP01-CCB050327	Pulmonary Neoplasms	Lung
+NCATS-COP01-CCB060051	Pulmonary Neoplasms	Lung
+NCATS-COP01-CCB070007	Pulmonary Neoplasms	Lung
+NCATS-COP01-CCB070020	Pulmonary Neoplasms	Lung
+NCATS-COP01-CCB070034	Pulmonary Neoplasms	Lung
+TCL01-STSA-1	Soft Tissue Sarcoma	Carpus
+TCL01-N-1866	Splenic Hematoma	Spleen
+TCL01-N-1344	Splenic Hyperplasia	Spleen
+TCL01-CLL-1390	T Cell Leukemia	Unknown
+NCATS-COP01-CCB010031	T Cell Lymphoma	Lymph Node
+NCATS-COP01-CCB010045	T Cell Lymphoma	Lymph Node
+NCATS-COP01-CCB010093	T Cell Lymphoma	Lymph Node
+NCATS-COP01-CCB010233	T Cell Lymphoma	Lymph Node
+NCATS-COP01-CCB010243	T Cell Lymphoma	Lymph Node
+NCATS-COP01-CCB030003	T Cell Lymphoma	Lymph Node
+NCATS-COP01-CCB030026	T Cell Lymphoma	Lymph Node
+NCATS-COP01-CCB030156	T Cell Lymphoma	Lymph Node
+NCATS-COP01-CCB030258	T Cell Lymphoma	Lymph Node
+NCATS-COP01-CCB030300	T Cell Lymphoma	Lymph Node
+NCATS-COP01-CCB040184	T Cell Lymphoma	Lymph Node
+NCATS-COP01-CCB060034	T Cell Lymphoma	Lymph Node
+TCL01-CTAC	Thyroid Cancer	Thyroid Gland
+OSA01-K9Ob	Unknown	Unknown
+UC01-POS-124	Urothelial Carcinoma	Urogenital Tract
+UC01-POS-125	Urothelial Carcinoma	Urogenital Tract
+UC01-POS-127	Urothelial Carcinoma	Urogenital Tract
+UC01-POS-128	Urothelial Carcinoma	Urogenital Tract
+UC01-POS-131	Urothelial Carcinoma	Urogenital Tract
+UC01-POS-134	Urothelial Carcinoma	Urogenital Tract
+UC01-POS-138	Urothelial Carcinoma	Urogenital Tract
+UC01-POS-2027	Urothelial Carcinoma	Urogenital Tract
+UC01-UD-001	Urothelial Carcinoma	Urogenital Tract
+UC01-UD-003	Urothelial Carcinoma	Urogenital Tract
+UC01-UD-007	Urothelial Carcinoma	Urogenital Tract
+UC01-UD-018	Urothelial Carcinoma	Urogenital Tract
+UC01-UD-027	Urothelial Carcinoma	Urogenital Tract
+UC01-UD-033	Urothelial Carcinoma	Urogenital Tract
+UC01-UD-049	Urothelial Carcinoma	Urogenital Tract
+UC01-UD-054	Urothelial Carcinoma	Urogenital Tract
+UC01-UD-081	Urothelial Carcinoma	Urogenital Tract
+UC01-UD-082	Urothelial Carcinoma	Urogenital Tract
+UC01-UD-084	Urothelial Carcinoma	Urogenital Tract
+UC01-UD-085	Urothelial Carcinoma	Urogenital Tract
+UC01-UD-088	Urothelial Carcinoma	Urogenital Tract
+UC01-UD-091	Urothelial Carcinoma	Urogenital Tract
+UC01-UD-092	Urothelial Carcinoma	Urogenital Tract
+UC01-UD-097	Urothelial Carcinoma	Urogenital Tract
+UC01-UD-098	Urothelial Carcinoma	Urogenital Tract
+UC01-UD-099	Urothelial Carcinoma	Urogenital Tract
+UC01-UD-100	Urothelial Carcinoma	Urogenital Tract
+UC01-UD-102	Urothelial Carcinoma	Urogenital Tract
+UC01-UD-104	Urothelial Carcinoma	Urogenital Tract
+UC01-UD-105	Urothelial Carcinoma	Urogenital Tract
+UC01-UD-106	Urothelial Carcinoma	Urogenital Tract
+UC01-UD-108	Urothelial Carcinoma	Urogenital Tract
+UC01-UD-109	Urothelial Carcinoma	Urogenital Tract
+UC01-UD-110	Urothelial Carcinoma	Urogenital Tract
+UC01-UD-112	Urothelial Carcinoma	Urogenital Tract
+UC01-UD-113	Urothelial Carcinoma	Urogenital Tract

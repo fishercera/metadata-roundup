@@ -1,0 +1,336 @@
+case	case_diseasetype_1	case_primarysite_1	investigation
+c7e09161-60d6-4dff-a840-7cec3bb7a30a	Rectum Adenocarcinoma	Colorectal	TCGA-READ
+ca8374a4-ce94-4091-aa9e-44339a7c4b22	Rectum Adenocarcinoma	Colorectal	TCGA-READ
+cb005c69-7301-41ce-b534-c9751f1436c5	Rectum Adenocarcinoma	Colorectal	TCGA-READ
+cbcb2141-b415-4410-8dd7-2a3cd3980a19	Rectum Adenocarcinoma	Colorectal	TCGA-READ
+e7503a51-6647-4cc2-80dd-645d0df4db43	Rectum Adenocarcinoma	Colorectal	TCGA-READ
+f2a8deb2-0e2c-4bbd-8fa1-99b7abb2f3aa	Rectum Adenocarcinoma	Colorectal	TCGA-READ
+ff004403-8cc5-43e6-bd1c-dde4eb1e6193	Rectum Adenocarcinoma	Colorectal	TCGA-READ
+bc4bc342-20bf-40c3-af26-2c6f942da93d	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+be03bfec-5bb6-4cab-9dd2-bee590bd45f1	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+c040df8a-9d6d-43bd-911a-17a7b4e1ec74	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+cbc7f427-5f7b-4267-ad56-055d8880a4cc	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+ce871097-a6e9-4139-897e-642ee24ee123	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+d2c0d320-d1c5-4eed-af4f-15540e60db0b	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+d2ccefea-c1d6-465f-97b1-e51e29c5f1f8	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+d3dd5e69-9752-4b50-9b1f-814afbc2c3dd	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+d73a0a33-e4e8-44bd-9580-2038ab06583a	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+d7b3156d-672a-4a55-868d-9ca6a09fcb0f	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+dce71741-ccbe-40b7-a0b8-2048d07187a4	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+e08a619d-8a55-435d-8c41-a77a112ed889	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+e20ea417-7296-4da8-9fdb-71cd1f45153a	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+e294b940-2828-499c-be24-47ef6c2e9035	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+ead71c90-cc5e-42ce-8754-c3cf15a41134	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+ef5e85cf-2d82-4d52-a02c-fed5c76e4cec	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+ef653772-e5d2-46ec-8610-f81d75d7353c	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+f2ce00e4-0d4f-4faa-bee1-ddf1b306e97b	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+f2ec64f5-a414-4c34-99c7-d59bc4e831e0	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+f34aa3b6-e966-49c6-bc55-130545772c53	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+f3af727e-b592-4828-94f5-22008666cf8c	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+f50ee039-1da9-43d9-ac01-657ec77a7f32	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+f58e49fc-9641-4b46-be4c-766445ec70a3	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+f65f2e78-c001-4ef3-ae88-3e4f83c7aceb	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+f7e01929-733b-420a-ab2b-051dd4a992e5	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+f9793a4b-c0e7-4475-bf80-69543b7ee2f6	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+f9c835db-2ab6-4bf5-826f-48723493c0ec	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+f9f44f86-10c7-4473-b156-5afbfa9a2ad0	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+03a9dd9d-62ae-4acd-9272-389274858f3d	Rectum Adenocarcinoma	Colorectal	TCGA-READ
+09daff79-6493-45c1-8cba-9381259e2bea	Rectum Adenocarcinoma	Colorectal	TCGA-READ
+0bb786ee-07cf-4853-9b49-ec95cd14e282	Rectum Adenocarcinoma	Colorectal	TCGA-READ
+0eda7373-8335-455f-b90a-8c3540f28088	Rectum Adenocarcinoma	Colorectal	TCGA-READ
+10290e91-9784-4f94-8daa-b5d9a8b0efb9	Rectum Adenocarcinoma	Colorectal	TCGA-READ
+1118490d-75aa-43cc-b2a2-c2af61829ffc	Rectum Adenocarcinoma	Colorectal	TCGA-READ
+19e46a3d-18c5-4927-8501-2265e2d617b8	Rectum Adenocarcinoma	Colorectal	TCGA-READ
+31bd8589-378c-40e5-8b7f-3b4c81f304be	Rectum Adenocarcinoma	Colorectal	TCGA-READ
+3be106bc-ba42-4c70-9b50-697d89db617d	Rectum Adenocarcinoma	Colorectal	TCGA-READ
+51c37449-6a2e-4c3d-a7cc-06f901e1224f	Rectum Adenocarcinoma	Colorectal	TCGA-READ
+594a52b0-c929-4e50-ae27-7542e32667ae	Rectum Adenocarcinoma	Colorectal	TCGA-READ
+71a32fca-d48f-4ea3-8df7-69f9dda8fa91	Rectum Adenocarcinoma	Colorectal	TCGA-READ
+74543fa4-ce73-46e4-9c59-224e8242b4a2	Rectum Adenocarcinoma	Colorectal	TCGA-READ
+830fd359-abd4-4c99-89e4-2d6bb9ce5637	Rectum Adenocarcinoma	Colorectal	TCGA-READ
+848a5838-8a06-45a9-a3d6-e4ed47b824ab	Rectum Adenocarcinoma	Colorectal	TCGA-READ
+8ad1c98b-5395-477e-87a8-19dff3a59c26	Rectum Adenocarcinoma	Colorectal	TCGA-READ
+8e00e7e7-ffaf-44f0-91a7-172671f18e08	Rectum Adenocarcinoma	Colorectal	TCGA-READ
+9c7b5e85-5579-4d0f-a7ea-b9d081ac0037	Rectum Adenocarcinoma	Colorectal	TCGA-READ
+9f4574ec-a58a-4410-8735-c5e5bc4ca7e0	Rectum Adenocarcinoma	Colorectal	TCGA-READ
+a18acb1d-403a-4802-8efb-9085e006f4c5	Rectum Adenocarcinoma	Colorectal	TCGA-READ
+a424bfe7-5518-4c80-83c8-709a34320bc7	Rectum Adenocarcinoma	Colorectal	TCGA-READ
+a91f7a8c-e0fe-403a-9ef0-f7679b2761cc	Rectum Adenocarcinoma	Colorectal	TCGA-READ
+b2c48624-a483-4b1d-9155-c0c80ed2f7a0	Rectum Adenocarcinoma	Colorectal	TCGA-READ
+3ac45a71-c463-4f0f-b030-58c475a34418	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+3f917550-89a6-404b-94df-938c99121411	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+4160e048-f0b0-40f5-805b-e277a5893a3b	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+4261267c-7042-4c6e-83ed-12fb401003fc	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+42ebd30b-175e-4ece-a806-e55cb7e40e96	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+46395c3d-5e51-477f-946e-e58b87cc7baa	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+499a9b57-ee1a-4012-bbab-c6ad955b5e0a	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+49d2c0cf-a3f3-4519-a755-0a5f769df2ea	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+4a2ca7b8-729d-4fab-a6f3-a5d1e5d1f4f3	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+4c099644-047c-42a3-8187-bfcbfe6662e4	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+4c18d9cf-4af4-4a86-8b1c-f78795fbbd7e	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+5201ee13-2aed-4641-9169-4d5ee07a23da	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+52386f66-2877-4c75-894e-5c1dc03e6ef4	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+5495b18a-10ec-427b-83b8-03ef4b587b13	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+561968ce-da9a-4d69-8bc2-bc87b9550f93	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+58427bce-6b81-4083-aeda-25f59e292bbc	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+5abb6d80-fc39-49a4-8db5-3db24543feb6	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+5c127332-5ca0-45f1-a5ac-4876ad94e491	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+5ced5b58-fab4-4bcd-b706-d6e49ce0cfc5	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+5d36676e-4140-44b5-aa0e-b2af092b7dc0	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+5d8abed4-62b3-4e17-a8ce-9f6028e97103	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+5e447cbc-9bc9-4e1a-9b43-06cf619e5aa9	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+60cce7ac-d27d-44a6-9873-ecf91da5e906	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+611600a6-43ec-4029-9682-cd6d6a3312ec	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+62379be5-13f0-474b-94d3-6f944ec4ee96	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+6264e699-d40b-4ebc-b443-0a0edcb220dc	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+63c6a89b-b28c-434a-a632-5de6545db731	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+65435f50-a35d-49e3-a36e-b95d9e274ca0	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+654d02ab-05b4-4863-99d9-04d087ff91b4	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+66c92b9e-de3c-4d1a-bb69-46ffbc6caf33	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+6a1be87b-c4e0-4fd4-b050-50a245b22038	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+6ad8bc89-d8e9-48c2-bc25-c8e51f972b4d	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+6b06281b-d3a9-440e-a86c-ee7db003352a	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+6beaa1cb-a9f1-4127-898c-7aff2273788e	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+6e84e89d-4f35-43b8-b47d-b1343b8c1ab9	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+6fb71a0c-bc50-48c8-acfa-db94be1e151a	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+7248cd60-be22-44bc-bc58-f644db0940a2	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+73b63d07-0c1d-4bf2-bf11-b183e090e200	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+7472b3ba-9b15-4d97-8708-a2dd82ca0f45	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+74dcdfb4-a637-4111-9a22-4b4bc7bbc8f7	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+758e6b52-062e-4ca0-84d1-ea38477414ac	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+7592a659-7175-486f-a16e-24a4b4365a36	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+75f2d97a-b96c-403f-8055-5c5c8083e856	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+778ce436-a825-4689-81c1-b7c965404163	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+7ab3765f-910a-41c9-86cc-08534d2a4e4b	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+7b042fb2-8f53-4fb1-8a44-40cd2128b279	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+7bd1851f-7e2e-4dbc-9f0e-7cb2863371e1	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+7e01f23a-0b0e-46a2-9f30-c3a9d2c779d2	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+7e4e7914-ec23-4c55-98d6-3c5eecffa8e4	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+808eb134-9c7d-43bb-b86c-2f3259193954	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+838693d5-1ae0-4d75-834b-e1b89b96b0ed	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+8449955f-42d9-46f6-919a-5cc5d59e6284	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+8a6d2ce3-cc57-451b-9b07-8263782aa23f	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+8a98a6e6-b763-4824-858b-fd2738e6c9a3	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+8c47ae58-91c7-4247-b420-50f31f5eb00d	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+8d1dcf21-efd3-4fbe-ad44-f43a19239383	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+8e1b8811-1eb2-4337-852c-c19eaa0ee418	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+914d8613-3c25-4a10-be50-28b42f4d3a5d	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+92a1a8f3-54f2-4983-bb14-dcb73658d897	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+93095c36-2263-438f-a619-a4a4d6ae13c7	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+931738a7-4b5b-46dc-b69f-72600862d8af	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+955c80be-53df-4565-9303-a7abf96a2f81	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+97efb80d-4f46-4aef-b95e-20d260de01b2	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+99407c1d-40b5-4ded-ba29-1e40dfd65be4	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+996313ef-11e7-459d-ba5f-ac1a4d0de513	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+99a61986-7b23-46b5-99a4-efba6bad3766	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+9c744ff8-1cde-4176-b6d7-0ab62bf42620	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+a22c1451-7841-4fa3-b2f2-5d5cd8aa67d3	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+a2319490-b85d-4219-a1b0-fa1ec432d5c8	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+a4a3fca9-723a-47f5-a49d-b3acb71c04a7	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+a85f6f9c-1e1d-44fc-85eb-3b2d96cfbc61	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+ad2b1a0a-153f-483d-b228-5763eba3f6cc	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+b25570ed-baca-4e3f-87c6-2ef18119ba49	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+b31d85cc-d2e2-4bd1-9986-d6bbe30e657f	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+b867e933-e3e3-4491-9bb6-b18c48d6f173	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+ba68f2cf-9271-41fd-9655-1fac7681f588	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+bc2591b0-65d7-48c3-a5cc-783f67b65869	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+01ad5016-f691-4bca-82a0-910429d8d25b	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+01f493d4-229d-47a6-baa8-32a342c65d01	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+04d7a52f-a89b-4114-a608-a6254b4d604f	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+0712566e-3371-4715-95f1-5b792e72d758	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+091e3084-04ee-4497-893c-d46226dec78f	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+0a815133-0edd-4422-89f2-2f067b6f2156	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+0cb0dac8-4ce2-444a-b1ae-1550e065b4d9	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+0cbe9848-8eac-4ea8-a36b-fb74b4a33de7	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+10628a61-bd5e-4415-af97-631c5ca320cb	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+124b6856-f581-46da-9068-b0a49b999785	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+132229e5-947d-43e9-a54c-a97d4be7d604	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+13ae9d83-a22f-451f-88bb-686051725cf3	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+23d0681a-912a-408f-b19a-0bbcf5ffc2f3	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+265d7b06-65fe-42c5-ad21-e6b160e94718	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+2a971e32-b0e7-4a3f-8c40-62d69c0307d8	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+2e386e48-b99b-4806-a3e3-081d72a606e7	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+35620be9-3ba5-4be7-9e00-83103e6a92e6	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+401a37f3-6630-4400-a811-a262351e37de	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+4f9775f2-b663-4daf-aa9e-50915cae9407	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+5116e3b4-2bac-40f5-8046-b9c1783faaa5	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+56e612e8-2c29-4782-be79-2813cc8dd2e6	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+60ad2c8a-6bbf-43fc-ae73-cc1f6d6c163c	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+69fb431f-0caf-4cdd-9085-eda5b18ed15d	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+6fa41234-9077-4d05-a295-6820f3bedf5b	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+73a142e1-8ac2-4cfe-b8cf-7e9dea64f488	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+764c97c9-01d3-45cb-86bd-f8a52b5468da	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+7a481097-14a3-4916-9632-d899c25fd284	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+80809d79-92e1-4d6c-ba2e-0a9589997792	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+84e34cf2-b3bb-4a1a-8fb7-6c2c604c4008	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+86d18004-9478-4e46-83b4-4fbe445ccb70	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+88e64f45-adc4-4223-9838-4d7d45b8f0c0	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+93ca8937-97c0-4f6e-bdec-66d32f2a7b3d	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+97f6c8d3-09a0-4128-8f10-41e736648a5f	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+a06c09a8-0951-49f4-a765-5147bbcae109	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+a435fdf4-a89a-499e-9006-cbb5693eab26	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+a512701f-88bb-4b05-8c94-fd285b9dd13e	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+a56d528b-238a-4556-92c8-7645304a2da0	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+a72dd578-3a6f-4807-a843-4a942500944e	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+af06cde0-c69a-4bb1-a234-8023b95e4835	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+b107565b-7558-4745-952b-689178367e1c	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+b728e6e8-a0e4-496b-904c-6f07c12e901f	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+ba49b428-246d-46d2-b549-39a5fc8f7003	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+bfb07784-693b-4c25-874e-4ad6e04a5d46	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+c46971a1-cbac-425d-bac2-f4142c92522e	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+c5c4a0a5-900d-483d-9282-475654d63265	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+c82bbe23-0264-45a7-b1a6-82b4654108c8	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+c9e829d9-cd08-41a9-a5a4-34f2d7d619c7	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+ca22edd4-eb7c-4677-84aa-6f0354459a19	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+d2c99bed-3446-4d12-99e0-00611faa37dc	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+d4e1472a-7b5f-46f4-acb7-b961f634e28e	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+d5619045-060a-4b60-86e4-6a5774994fd4	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+d761bc06-dee8-478a-be99-8af9c504e49c	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+df228c56-89ac-4122-93b3-6c0740c4ec09	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+e2edbf3f-25d8-49aa-b656-2a59c3b99aeb	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+e394e9ec-7288-4ede-9ef8-41b631d100dd	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+e457344d-76fb-46bf-b362-61a6e811d131	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+e6c8c5fc-158a-4de4-b3f6-3b645584bbc7	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+f5c3bc61-1018-4351-bb23-aacc1459365f	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+f87c6dcc-1a9e-4df5-962c-1f946e2611f8	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+fdffda5f-72b2-4153-b7f1-d7043b7ca898	Colon Adenocarcinoma	Colorectal	TCGA-COAD
+00a2d166-78c9-4687-a195-3d6315c27574	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+02bed00f-bef7-4fb7-b243-540354990e45	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+03565036-b6d3-432f-8d9a-7099818e0788	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+058dcb78-bed1-40c3-a6c2-a0cc40065531	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+08306ede-e74b-4be9-b768-7fd98647b6ac	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+084c6aec-94f7-4090-8f3f-59fa9e89721a	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+09765b0a-94f6-47d2-af56-93368084ac3a	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+0bc5744c-5fa3-45bb-87d0-70a02068b392	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+1111fb30-46ce-4722-98da-ec9ba2323d90	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+128d198e-9b22-427c-90db-3714455f3a17	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+13ca97a1-75bb-4a49-b8c3-181e5b2c9e86	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+1557183c-aedd-4df6-b98a-3654667f7b69	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+17f275c1-a0d4-487d-8f02-ea279584b4cd	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+18d35983-ea6a-4b70-a209-9bef37595956	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+20e8106b-1290-4735-abe4-7621e08e3dc8	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+2192c1db-4718-4254-ba42-3ae7f30ad5a8	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+233b02f3-c4f0-4a67-9db5-e68d5cdaccb6	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+2399caeb-ead2-4003-af38-809db4ac2e2b	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+23dabeef-8e3c-44bc-9a12-a9522d17be5c	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+24334ac1-28a3-4b61-b590-3f51e375b247	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+24e39609-9645-43e5-960b-db5446eaea65	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+2c6adb12-380d-4710-a7e6-93d5a0e53289	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+2cbeadff-a8a3-4787-9d4e-f6b74c3ab5d9	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+2cf68894-168b-458b-af4f-53cad72989a8	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+2f4cbedf-ed7e-45a2-bf34-f1d1e696bdde	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+2fe854b4-bac9-4801-9a1c-ee99388e8082	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+31c31cce-1b4d-4f12-922f-84f389403170	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+324bcba2-f6a4-45a6-807c-215bdffcca21	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+33cea538-4c3f-470a-972d-257c43241ab4	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+36fe6152-f61e-4948-9ccc-23ac01a9d77d	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+3927f736-3b5c-48c8-9d9e-83669ec44770	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+3a711140-1b89-4611-9992-3861e3d0e01a	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+f1692f4b-ce1b-4fc5-ac55-1022ecae0d1e	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+f6e1ec78-5ad9-4879-9b7e-262d17b166ad	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+f6ed684f-ee7a-496c-80d5-6eacd494d16a	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+fcef8cb5-fb2c-4bfb-82cd-6b9f3145182c	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+01ea6354-137b-47f3-9021-a01a382b1147	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+04abcf51-c52a-4e74-a5f4-4bc4fb444902	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+05019013-7ea5-4905-ac79-901146ba2ee2	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+08c64000-d320-4e4d-974b-da503d48890c	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+3e9f93c0-aa79-4b4c-bd6c-b3325912362a	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+42621dfa-abfd-4c7d-8bc5-a02a09d1c2b4	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+43d5632e-7272-4aad-9496-7f5a99671223	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+441919eb-8c9f-478c-bda3-8de4f8295e8a	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+44bec761-b603-49c0-8634-f6bfe0319bb1	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+495f9eda-b9be-4eef-bae1-766a4bfbd68e	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+4a032bad-e726-48f2-8f39-e3acc109cc91	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+4ac693e9-10f3-46b3-9d46-df3af7b0d259	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+4da7abaf-ac7a-41c0-8033-5780a398545c	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+5cbf0aea-ebb4-4005-bdd5-14ef2dc6826c	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+606fbc6a-b41b-441d-9401-51e54912bf5e	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+6439621e-da61-4723-91cc-c5d87d0a4abc	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+665dd3d3-779c-4abd-b5d7-13342340451d	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+6adca853-1b09-47ff-814c-47b732a76d96	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+6b960b58-28e1-41c6-bd6e-7e669c6aa4ef	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+7032ec9c-e96b-4642-a7b6-d0aee7a3add2	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+71229981-97c2-4ae1-a130-fe5de336b37d	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+719082cc-1ebe-4a51-a659-85a59db1d77d	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+71f97b63-c970-44ee-98c2-e02e663d5a40	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+72cd1b17-d349-4551-83f7-3062ce9db865	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+73ccc949-01b7-48d3-a7c4-c4bcd261672a	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+7875018b-91dc-4ab1-83b0-ee3883e2816e	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+790ff5db-b7f3-4946-aaed-305f66b1dd6a	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+7c2a8440-0206-4039-8474-8d62f6c7de0c	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+7d681cc6-689d-41c8-9e84-e13733089ec9	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+7e1673f8-5758-4963-8804-d5e39f06205b	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+87f03d04-e651-4a6e-aea6-1c946aa46202	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+8cf54607-01ce-42b0-9bd9-8627edd9f3b7	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+9495f029-9882-4c9b-a557-b3aec9e91698	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+9646160a-f1f9-437b-8c7d-efb0b57bfb97	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+97b5f490-1cd9-4833-b903-5f4c6e45670d	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+98e0b4de-52fc-4945-9bf5-11e29368f939	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+991e1427-3c01-423d-abfd-4584302ca72c	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+99e32c59-aa73-43fa-88c9-399ddadb2c72	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+9d8702e1-1a36-4bca-85ab-5f11d58d7953	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+9d95a65b-e41d-4f93-92d4-99dce29ff40d	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+a12fd22a-7f84-4b6e-b6d8-012e38eb73d7	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+a1872011-b928-4189-ac02-e87506c20bca	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+a4903de8-6cf5-4541-8ec7-065beace8b44	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+a6edb6ca-ae9f-4da7-8ebe-92d83d2987fb	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+a824b3bd-34d5-4cc1-a92f-f9d6ac0f1814	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+abdc76db-f85e-4337-a57e-6d098789da03	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+ae8c77fe-e6c8-44d5-8265-4a38c637bbef	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+b205c89f-af62-4186-acad-ed23d243fa98	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+b6c286c6-2755-419b-87d3-59c7feda9653	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+baf1207d-7d1a-4cad-ba58-62c26be2415e	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+bef7b135-a727-45e8-850a-cc4cd56c49aa	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+c0892598-1f7b-4f23-9cd8-731f797753d5	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+c364e81c-eb1e-4870-ab37-9c661f5f2e3d	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+c49e3b18-fd88-48f4-8b01-300692ceb367	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+ca76c6fc-ff30-4833-884d-3a94fe53ff17	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+cc0902fd-a2fc-4327-929e-d4219e32e1d7	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+ccb22ecc-6e18-44b8-ad48-6ab51314b16e	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+d10a4887-373b-4726-a61d-126f950e4a06	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+d1703dbd-5c93-4cf2-a4d1-0d90640882bd	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+d5d8e76e-2f2a-49bc-ba0a-d51283611b16	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+d67cd793-2931-429a-9084-2f3c4c8be7ad	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+d69e59a8-b10b-46f5-b859-b6c178d90506	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+d7308344-5bab-4073-bb4f-4d8cd8d7bd17	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+d7808cbc-4b8c-467b-b2c3-f48d05b9ecab	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+da1c58a7-c6bd-47d9-95c2-8d2ac70e20e4	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+daf62b56-6dd2-4ab7-adaa-f296bb86a0a5	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+db4bc6aa-2e7d-4bcb-8519-a455f624d33b	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+dba9beec-5e51-48c0-9229-0ee286a02a1a	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+e1119732-3e97-4259-bc69-dc4269d9496d	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+e5aae05a-478e-4a55-a27c-12b2b4be302a	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+e9f4f373-37a5-48ad-a1a0-b0d47820111a	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+eb2dbb4f-66b6-4525-8323-431970f7a64e	Breast Invasive Carcinoma	Breast	TCGA-BRCA
+098acb76-0bf5-44e5-bcae-f919cf5fa5e5	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+0a48873a-092a-4b25-822b-b0b3c18c08a8	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+0adadf17-c4b6-48b0-a326-21450de3e144	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+0d15e5aa-2483-4f81-973a-ff469296c911	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+0e1598d8-cbe5-4113-95f1-4bcda061239b	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+0e6c9433-289c-4744-a0c1-47ec67774047	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+0f530b3e-5b6d-4892-9ebd-9138d76fdca7	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+13319c20-02f6-4b5f-b24f-3d8f4084094c	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+16829472-5666-4fba-9bf9-360ec1689aa0	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+16ced1b8-64d5-4498-82df-4d37bfe5b310	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+1858b58f-fdf4-413c-9c29-96ae85b88a74	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+18d21132-a795-4551-83ba-66483de423a2	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+18e0e996-8f23-4f53-94a5-dde38b550863	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+19427350-619b-4b9c-a3ba-37f667bb2843	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+1aea3c25-d2bc-4ff5-bc27-32e939944e9d	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+20ac688c-04c1-45a6-823a-6b523002ce92	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+219f54ef-4235-482d-b799-f2fa9930105c	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+21f6bf91-dfc6-4a59-8b76-88a0f95c7b47	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+22178c3c-6b04-46d8-8041-dc83fa195029	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+242943fe-1fa0-4a12-8f7e-9c6c4af1194d	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+242da7d0-8c6a-4395-9a0d-aa36e7c25ce6	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+263e85e2-7b6f-453f-8fd0-e5ea1409fece	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+2724109f-7d5a-402c-a915-741e43c6f7f9	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+28ed2d42-5b4c-4bca-b2b2-6b2a6d3c42cf	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+2b14123b-8fcd-402c-9399-4e7c47f20252	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+2ee36d9d-128b-4761-aa1a-a637da106f3d	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+3018efe7-13a1-47ae-a726-8fc967c73841	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+3438c018-9856-4628-ae59-7d365713647f	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+3445c524-5a37-40b6-8614-956d76eed939	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+3491d67a-4f83-4f67-8085-bbb9fe942be5	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+34f545ab-d420-4dd2-8db4-3159896efd23	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
+384170fc-e8be-426a-a54e-bf1ca61f2986	Ovarian Serous Cystadenocarcinoma	Ovary	TCGA-OV
