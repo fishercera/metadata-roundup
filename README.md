@@ -24,9 +24,12 @@ alt="Figure 1 - Summarized Datasets by Disease Type" />
 Type</figcaption>
 </figure>
 
+<figure>
+<img src="out/Top25PrimarySitesInConnectedData.png"
+alt="Figure 2 - Summarized Datasets by Primary Site" />
+<figcaption aria-hidden="true">Figure 2 - Summarized Datasets by Primary Site</figcaption>
+</figure>
 
-![Fig2 - Summarized Datasets by Primary
-Site](out/Top25PrimarySitesInConnectedData.png) 
 
 
 ### Part 1 - Import and Aggregate Data
