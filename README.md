@@ -24,6 +24,8 @@ alt="Figure 1 - Summarized Datasets by Disease Type" />
 Type</figcaption>
 </figure>
 
+</br>
+
 <figure>
 <img src="out/Top25PrimarySitesInConnectedData.png"
 alt="Figure 2 - Summarized Datasets by Primary Site" />
