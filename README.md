@@ -24,7 +24,7 @@ alt="Figure 1 - Summarized Datasets by Disease Type" />
 Type</figcaption>
 </figure>
 
-</br>
+And we didn't use this on the new website, but I also made the primary site figure. 
 
 <figure>
 <img src="out/Top25PrimarySitesInConnectedData.png"
