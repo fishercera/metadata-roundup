@@ -10,7 +10,12 @@ datasets is the difficulty that always exists with making summaries over
 disparate datasets: the datasets are not harmonized and do not use the
 same metadata.
 
-We have to make do with what we’ve got.
+Here, I’m trying to get a representation of data volume that will both
+be useful to scientists and will also be reproducible as we ingest more
+metadata. It seems to me that the things most useful to researchers who
+are trying to use our hosted data are \[Fig1\] Disease Type (what kind
+of cancer is this data about?) and \[Fig2\] Primary Sites (what part of
+the body did the sample come from?).
 
 <figure>
 <img src="out/Top25DiseaseTypesInConnectedData.png"
@@ -19,20 +24,10 @@ alt="Figure 1 - Summarized Datasets by Disease Type" />
 Type</figcaption>
 </figure>
 
-Here, I’m trying to get a representation of data volume that will both
-be useful to scientists and will also be reproducible as we ingest more
-metadata. It seems to me that the things most useful to researchers who
-are trying to use our hosted data are \[Fig1\] Disease Type (what kind
-of cancer is this data about?) and \[Fig2\] Primary Sites (what part of
-the body did the sample come from?).
 
 ![Fig2 - Summarized Datasets by Primary
-Site](out/Top25PrimarySitesInConnectedData.png) One stumbling block
-is that TCIA, which is imaging data, doesn’t have primary site recorded,
-while ICGC, which is all molecular data, doesn’t have disease type
-recorded. Oh well, let’s do the best we can; we’ll make two charts, one
-with primary site and one with disease type, and we’ll just have a blank
-for TCIA/ICGC in either of those charts.
+Site](out/Top25PrimarySitesInConnectedData.png) 
+
 
 ### Part 1 - Import and Aggregate Data
 
